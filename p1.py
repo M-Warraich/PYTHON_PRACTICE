@@ -1,23 +1,29 @@
 greeting = "Hello world"
 print(greeting)
 
+
 greeting = "goodbye"
 print (greeting)
+
 
 first_name = "AI" 
 last_name = "HUB"
 full_name = f"{first_name},{last_name}"
 print(full_name)
 
+
 print (f"albert eiestine once said, a person who never made a mistake never tried a new")
+
 
 name_with_spaces = "  Ali  "
 clean_name = name_with_spaces.strip()
 print (clean_name)
 
+
 number = 10
 result = (((number + 5)*2)-3)
 print(result)
+
 
 a = 10 
 b = 5
@@ -26,11 +32,13 @@ print(f"difference : {a-b}")
 print(f"product : {a*b}")
 print (f"quotient : {a/ b}")
 
+
 num = 7
 square = num ** 2
 cube = num ** 3
 print(f"The square of {num} is {square}")
 print(f"The cube of {num} is {cube}")
+
 
 num1 = 3.14
 num2 = 2.71
@@ -38,8 +46,10 @@ num3 = 1.618
 total = num1 + num2 + num3
 print(f"The total is: {total}")
 
+
 x, y, z = 1, 2, 3
 print(x, y, z)
+
 
 favorite_fruits = ["apple", "banana", "orange", "grape", "mango"]
 for fruit in favorite_fruits:
