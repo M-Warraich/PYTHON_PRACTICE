@@ -1,7 +1,3 @@
-
-# Store a motivational quote in a variable and print it.
-# Create a variable for your favorite subject and print it
-
 print("MUHAMMAD")
 
 age = 18
